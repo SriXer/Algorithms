@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "queue.h"
+#include "../LibraryCPP/queue.h"
 
 int main(int argc, char* argv[]) {
     if (argc != 2) {
